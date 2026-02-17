@@ -2,7 +2,7 @@
 import { GameCardProps, Reward } from './types';
 
 export const GAMES: GameCardProps[] = [
-  { title: "GTA 5", imageUrl: "/images/GTA5.jpg" },
+  { title: "GTA 5", imageUrl: "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png" },
   { title: "CALL OF DUTY 3", imageUrl: "/images/call-of-duty copy.jpg" },
   { title: "WWE 2K24", imageUrl: "/images/wwe.jpg" },
   { title: "FIFA 23", imageUrl: "/images/fifa23.jpg" },
